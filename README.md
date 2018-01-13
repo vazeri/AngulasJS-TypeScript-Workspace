@@ -1,43 +1,60 @@
-# Configuración de workspace AngularJS + Typescript
+### Configuración de workspace AngularJS + Typescript
 ---
 
 Configuración de espacio de trabajo para AngularJS+Typescript
 
-Instalar node https://nodejs.org/dist/v8.9.4/node-v8.9.4-x64.msi
+### Instalar node
+
+https://nodejs.org/dist/v8.9.4/node-v8.9.4-x64.msi
+
+### Instalar chrome
+
+### Instalar Typescript
+
+-g instala de manera global 
+
 ```
 npm install -g typescript
 ```
+### Instalar Angular CLI
 ```
 npm install -g @angular/cli
 ```
+para actualizar angular CLI 
 ```
-npm install -g 
+npm uninstall -g angular-cli @angular/cli
+npm cache clean
+npm install -g @angular/cli@latest
 ```
+
+### Instalar Ionic
+Ionic 2 usa Angular2 (es como un bootstrap especializado)
 ```
 npm install -g cordova ionic
 ```
 
-# Instalar ATOM
+### Instalar ATOM
   https://atom.io/
 
-Instalar los siguientes Atom packages:
+Una vez instalado, Instalar los siguientes Atom packages:
+```
+-angular2 typescript snippets (GregOnNet)
 
--angular2 typescript snippets
+-atom bootstrap 3 (f)
 
--atom bootstrap 3
+-atom-typescript  (TypeStrong)
 
--atom-typescript  (ultimo)
+-file-icons 2.0.15 (file-icons)
 
--file-icons 2.0.15
+-font-awsome-nippetset (kevdotbadger)
 
--font-awsome-nippetset
+-minimap (atom-minimap)
 
--minimap
+-platformio ide terminal (platformio)
 
--platformio ide terminal
-
--v-bootstrap4 
+-v-bootstrap4 (thevuong)
 
 -autocomplete-js-import
 
 -ng-snippets 
+```
