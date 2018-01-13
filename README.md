@@ -54,7 +54,16 @@ Una vez instalado, Instalar los siguientes Atom packages:
 
 -v-bootstrap4 (thevuong)
 
+-ng-snippets 
+
+```
+Instalar y configurar 
+```
 -autocomplete-js-import
 
--ng-snippets 
 ```
+En sección a Import types for autocompletion 
+
+Quittar palomita a:
+
+Commonjs "require"
