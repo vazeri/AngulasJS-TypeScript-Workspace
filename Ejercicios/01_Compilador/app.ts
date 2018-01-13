@@ -1,5 +1,11 @@
-if( true ){
-  var mensaje = "adios";
+//Nombre debe ser una variable tipo string (texto)
+function saludar( nombre:string ){
+  console.log( "Hola" + nombre.toUpperCase() );
 }
 
-console.log( mensaje);
+//Objeto con propiedades de la variable
+var erick = {
+  nombre: "Goat"
+};
+
+saludar(erick.nombre);

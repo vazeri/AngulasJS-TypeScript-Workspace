@@ -1,7 +1,8 @@
-function saludar ( nombre:string ){
-  console.log("Hola" + nombre.toUpperCase() );
+//Nombre debe ser una variable tipo string (texto)
+function saludar(nombre) {
+    console.log("Hola" + nombre.toLowerCase());
 }
-
+//Objeto con propiedades de la variable
 var erick = {
-  nombre: "Goat"
+    nombre: "Goat"
 };
