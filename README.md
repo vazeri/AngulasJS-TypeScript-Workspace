@@ -37,30 +37,20 @@ npm install -g cordova ionic
   https://atom.io/
 
 Una vez instalado, Instalar los siguientes Atom packages:
-```
 * angular2 typescript snippets (GregOnNet)
-
 * atom bootstrap 3 (f)
-
 * v-bootstrap4 (thevuong)
-
 * atom-typescript  (TypeStrong)
-
 * file-icons 2.0.15 (file-icons)
-
 * font-awsome-nippetset (kevdotbadger)
-
 * minimap (atom-minimap)
-
 * platformio ide terminal (platformio)
-
 * ng2-snippets ()
 
-```
 Instalar y configurar 
+* autocomplete-js-import (DanielaGarcia-Carrillo)
 ```
--autocomplete-js-import (DanielaGarcia-Carrillo)
-//En sección a Import types for autocompletion 
-Quittar palomita a: Commonjs "require"
+Configurar autocomplete-js en sección "Import types for autocompletion" 
+Remover palomita a: Commonjs "require"
 ```
 
