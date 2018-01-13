@@ -1,8 +1,7 @@
-# AngulasJS-TypeScript-Workspace
-Configuración de espacio de trabajo para AngularJS+Typescript
-
-# Configuracion de espadio de trabajo para AngularJS + Typescript
+# Configuración de workspace AngularJS + Typescript
 ---
+
+Configuración de espacio de trabajo para AngularJS+Typescript
 
 Instalar node https://nodejs.org/dist/v8.9.4/node-v8.9.4-x64.msi
 ```
