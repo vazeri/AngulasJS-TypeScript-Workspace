@@ -1,8 +1,10 @@
-## ¿Qué es esto?
-Una pequeña guía de instalación para ponerse de manera más rápida posible  a trabajar usando AngularJS, Typescript, utilizando el entorno de desarrollo ATOM
+### ¿Qué es esto?
+---
+Una pequeña guía de instalación, configuración y ejercicios de programación en TS para adaptarse y establecer un flujo de trabajo lo manera más rápido posible a trabajar usando AngularJS y Typescript, utilizando el entorno de desarrollo ATOM.
 
-#  ¿Porque Typescript en 2018 ?
-Typescript (TS) facilita el desarrollo y trabajo en equipo, compila sobre JS, y toma (casi) todo bueno de ECMAScript 6 (ES6), dentro de su entorno de trabajo, TS es desarrollado por Microsoft
+###  ¿Porque Typescript en 2018 ?
+---
+Typescript (TS) facilita el desarrollo y trabajo en equipo, compila sobre JS, y toma (casi) todo bueno de ECMAScript 6 (ES6), dentro de su entorno de trabajo, TS es desarrollado por Microsoft.
 
 ### ¿Que le falta a JS?
 ---
@@ -24,26 +26,19 @@ Typescript (TS) facilita el desarrollo y trabajo en equipo, compila sobre JS, y 
 * Errores por que el IDE no indica que se puede o no hacer
 * Nos damos cuenta hasta que corre el programa
 
-
-
-
-
 # Configuración de workspace AngularJS + Typescript
 ---
 Configuración de espacio de trabajo para AngularJS+Typescript
 
 ### Instalar node
-
 https://nodejs.org/dist/v8.9.4/node-v8.9.4-x64.msi
 
 ### Instalar Chrome
-
 https://www.google.com/chrome/browser/desktop/index.html
 
 ### Abrir/Correr consola Node.JS con permiso de ADMIN
 
 ### Instalar Typescript
-
 -g comando para instalar de manera global 
 
 ```
