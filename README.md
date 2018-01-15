@@ -4,7 +4,7 @@ Una pequeña guía de instalación, configuración y ejercicios de programación
 
 ###  ¿Porque Typescript en 2018 ?
 ---
-Typescript (TS) facilita el desarrollo y trabajo en equipo, compila sobre JS, y toma (casi) todo bueno de ECMAScript 6 (ES6), dentro de su entorno de trabajo, TS es desarrollado por Microsoft.
+Typescript (TS) facilita el desarrollo y trabajo en equipo, compila sobre JS, y toma (casi) todo lo bueno de ECMAScript 6 (ES6), dentro de su entorno de trabajo, TS es desarrollado por Microsoft.
 
 ### ¿Que le falta a JS?
 ---
@@ -83,4 +83,19 @@ Configurar el paquete
 Sección "Import types for autocompletion" 
 Remover palomita a: Commonjs "require"
 ```
+
+### Iniciando a programar
+El folder **01_Plantilla_Base** contiene la estructura de archivos básica para iniciar a escribir código.
+
+Se debe editar el archivo **app.TS** y compilar para poder generar un archivo **app.JS** Este último está incorporado al **index.html** y previsualizado la consola del navegador por medio de la tecla **F12**
+
+### Compilando app.TS
+Las aplicaciones escritas en TS compilan por medio del uso de la consola de Atom botón **+**  (Esquina inferior izquierda) 
+
+Una vez abierta la consola escribir 
+```
+tsc app -w
+```
+El comando **-w** permite a Atom realizar un monitoreo continuo cada que se guarda el archivo TS **Ctrl + S**, si este se remueve se realizara una compilación de única vez
+
 
