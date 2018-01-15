@@ -1,6 +1,5 @@
 ### Configuración de workspace AngularJS + Typescript
 ---
-
 Configuración de espacio de trabajo para AngularJS+Typescript
 
 ### Instalar node
@@ -9,9 +8,13 @@ https://nodejs.org/dist/v8.9.4/node-v8.9.4-x64.msi
 
 ### Instalar chrome
 
+https://www.google.com/chrome/browser/desktop/index.html
+
+### Abrir/Correr consola Node.JS con permiso de ADMIN
+
 ### Instalar Typescript
 
--g instala de manera global 
+-g comando para instalar de manera global 
 
 ```
 npm install -g typescript
@@ -20,7 +23,7 @@ npm install -g typescript
 ```
 npm install -g @angular/cli
 ```
-para actualizar angular CLI 
+en caso de actualizar Angular CLI 
 ```
 npm uninstall -g angular-cli @angular/cli
 npm cache clean
@@ -28,7 +31,7 @@ npm install -g @angular/cli@latest
 ```
 
 ### Instalar Ionic
-Ionic 2 usa Angular2 (es como un bootstrap especializado)
+Ionic 2 usa Angular2 (es como un Bootstrap especializado)
 ```
 npm install -g cordova ionic
 ```
@@ -37,6 +40,7 @@ npm install -g cordova ionic
   https://atom.io/
 
 Una vez instalado, Instalar los siguientes Atom packages:
+
 * angular2 typescript snippets (GregOnNet)
 * atom bootstrap 3 (f)
 * v-bootstrap4 (thevuong)
@@ -46,11 +50,12 @@ Una vez instalado, Instalar los siguientes Atom packages:
 * minimap (atom-minimap)
 * platformio ide terminal (platformio)
 * ng2-snippets ()
+* autocomplete-js-import (DanielaGarcia-Carrillo)
 
-Instalar y configurar 
+Configurar el paquete
 * autocomplete-js-import (DanielaGarcia-Carrillo)
 ```
-Configurar autocomplete-js en sección "Import types for autocompletion" 
+Sección "Import types for autocompletion" 
 Remover palomita a: Commonjs "require"
 ```
 
