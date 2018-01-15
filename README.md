@@ -1,5 +1,5 @@
 ## ¿Qué es esto?
-Una pequeña guía de instalación, configuración y ejercicios de programación en TS para adaptarse y establecer un flujo de trabajo lo manera más rápido posible a trabajar usando AngularJS y Typescript, utilizando el entorno de desarrollo ATOM.
+Una pequeña guía de instalación, configuración y ejercicios de programación en TS para adaptarse al lenguaje y establecer un flujo de trabajo lo manera más rápido posible a trabajar usando AngularJS y Typescript, utilizando el entorno de desarrollo ATOM.
 
 ###  ¿Porque Typescript en 2018 ?
 Typescript (TS) facilita el desarrollo y trabajo en equipo, compila sobre JS, y toma (casi) todo lo bueno de ECMAScript 6 (ES6), dentro de su entorno de trabajo, TS es desarrollado por Microsoft.
