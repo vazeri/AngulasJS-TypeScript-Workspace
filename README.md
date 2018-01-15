@@ -1,4 +1,4 @@
-### ¿Qué es esto?
+## ¿Qué es esto?
 ---
 Una pequeña guía de instalación, configuración y ejercicios de programación en TS para adaptarse y establecer un flujo de trabajo lo manera más rápido posible a trabajar usando AngularJS y Typescript, utilizando el entorno de desarrollo ATOM.
 
@@ -6,7 +6,7 @@ Una pequeña guía de instalación, configuración y ejercicios de programación
 ---
 Typescript (TS) facilita el desarrollo y trabajo en equipo, compila sobre JS, y toma (casi) todo lo bueno de ECMAScript 6 (ES6), dentro de su entorno de trabajo, TS es desarrollado por Microsoft.
 
-### ¿Que le falta a JS?
+#### ¿Que le falta a JS?
 ---
 * Tipos de variables
 * Errores en tiempo de escritura
@@ -14,7 +14,7 @@ Typescript (TS) facilita el desarrollo y trabajo en equipo, compila sobre JS, y 
 * Método estático de programación 
 * Clases y módulos (antes de ES6)
 
-### Problemas con JS 
+#### Problemas con JS 
 ---
 * Errores de variables no definidas
 * Objeto con propiedades no esperadas
@@ -26,7 +26,7 @@ Typescript (TS) facilita el desarrollo y trabajo en equipo, compila sobre JS, y 
 * Errores por que el IDE no indica que se puede o no hacer
 * Nos damos cuenta hasta que corre el programa
 
-# Configuración de workspace AngularJS + Typescript
+## Configuración de workspace AngularJS + Typescript
 ---
 Configuración de espacio de trabajo para AngularJS+Typescript
 
@@ -84,7 +84,7 @@ Sección "Import types for autocompletion"
 Remover palomita a: Commonjs "require"
 ```
 
-### Iniciando a programar
+## Iniciando a programar
 El folder **TypeScript** contiene distintos ejemplos/ejercicios **01_Plantilla_Base** contiene la estructura de archivos básica para iniciar a escribir código.
 
 Se debe editar el archivo **app.TS** y compilar para poder generar un archivo **app.JS** Este último está incorporado al **index.html** y el resultado puede previsualizado la consola del navegador (Chrome) por medio de la tecla **F12**
