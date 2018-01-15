@@ -85,9 +85,9 @@ Remover palomita a: Commonjs "require"
 ```
 
 ### Iniciando a programar
-El folder **01_Plantilla_Base** contiene la estructura de archivos básica para iniciar a escribir código.
+El folder **TypeScript** contiene distintos ejemplos/ejercicios **01_Plantilla_Base** contiene la estructura de archivos básica para iniciar a escribir código.
 
-Se debe editar el archivo **app.TS** y compilar para poder generar un archivo **app.JS** Este último está incorporado al **index.html** y previsualizado la consola del navegador por medio de la tecla **F12**
+Se debe editar el archivo **app.TS** y compilar para poder generar un archivo **app.JS** Este último está incorporado al **index.html** y el resultado puede previsualizado la consola del navegador (Chrome) por medio de la tecla **F12**
 
 ### Compilando app.TS
 Las aplicaciones escritas en TS compilan por medio del uso de la consola de Atom botón **+**  (Esquina inferior izquierda) 
