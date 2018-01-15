@@ -21,10 +21,10 @@ Typescript (TS) facilita el desarrollo y trabajo en equipo, compila sobre JS, y 
 * Errores de mayúsculas o minúsculas en lugares in correctos 
 * Errores por que el IDE no indica que se puede o no hacer
 * Nos damos cuenta hasta que corre el programa
----
+
 ## Configuración de workspace AngularJS + Typescript
 Configuración de espacio de trabajo para AngularJS+Typescript
----
+
 ### Instalar node
 https://nodejs.org/dist/v8.9.4/node-v8.9.4-x64.msi
 
