@@ -1,0 +1,23 @@
+Typescript compila sobre JS, y toma todo lo que hace bueno a E6 lo mejora y amplifica, TS es desarrollado por microsoft
+
+#¿Que le falta a JS?
+---
+*Tipos de variables
+*Errores en tiempo de escritura
+*Auto completacion dependiendo de la variable 
+*Metodo estatico de programacion 
+*Clases y modulos (antes de ES6)
+
+
+# Problemas con JS 
+---
+*Errores de variables no definidas
+*Objeto con propiedades no esperadas
+*Errores por que no se entiene el codigo de el de alado
+*Errores de sobre escritura de variables, clases, funciones o *constantes
+*Errores porque codigo colisiona con el de otro 
+*Cache dle navegador mantiene JS viejos 
+*Errores de mayusculas o minusculas en lugares in correctos 
+*Errores por que el IDE no indica que se puede o no hacer
+*Nos damos cuenta hasta que corre el programa
+
