@@ -6,7 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'AJS2';
-  nombre = 'Erick';
-  descripcion = 'Documentación adicional';
+
 }
