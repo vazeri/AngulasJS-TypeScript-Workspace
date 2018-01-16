@@ -1,11 +1,7 @@
-//Nombre debe ser una variable tipo string (texto)
-function saludar( nombre:string ){
-  console.log( "Hola" + nombre.toUpperCase() );
-}
+//Es necesario tneer la configuracion de AngularJS
+//para correr sin errores este programa 
+import { Xmen } from "./clases/heroes"
 
-//Objeto con propiedades de la variable
-var erick = {
-  nombre: "Goat"
-};
+let wolverine = new Xmen( "Logan", "Wolverine");
 
-saludar(erick.nombre);
+wolverine.imprimir();
