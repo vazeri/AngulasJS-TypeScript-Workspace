@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
 
 })
 export class BodyComponent {
-  title = 'AJS2';
+  title = 'AngularJS';
   nombre = 'Erick';
   descripcion = 'Documentación adicional';
 }
