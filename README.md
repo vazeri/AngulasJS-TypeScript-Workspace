@@ -4,6 +4,8 @@ Una pequeña guía de instalación, configuración y ejercicios de programación
 ###  ¿Porque Typescript en 2018 ?
 Typescript (TS) facilita el desarrollo y trabajo en equipo, compila sobre JS, y toma (casi) todo lo bueno de ECMAScript 6 (ES6), dentro de su entorno de trabajo, TS es desarrollado por Microsoft.
 
+https://www.typescriptlang.org/docs/home.html
+
 #### ¿Que le falta a JS?
 * Tipos de variables
 * Errores en tiempo de escritura
