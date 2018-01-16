@@ -15,7 +15,15 @@ cd C:/..
 ng new my-app
 ```
 
-###
+### Iniciar servidor local
+http://localhost:4200
 ```
 ng serve -open
+```
+
+#Instalar dependencias
+```
+npm install bootstrap@4.0.0-beta.3
+npm install jquery
+npm install popper.js --save
 ```
